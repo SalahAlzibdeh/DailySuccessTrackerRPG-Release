@@ -23,8 +23,7 @@ The app uses a custom category system where the same categories you create for o
 
 Grab the latest release here:
 
-https://github.com/SalahAlzibdeh/DailySuccessTrackerRPG/releases/latest
-
+[Download the latest release](https://github.com/SalahAlzibdeh/DailySuccessTrackerRPG/releases/latest)
 ## Architecture
 
 The app follows a simple MVVM structure:
@@ -38,9 +37,4 @@ The app follows a simple MVVM structure:
 
 - Windows 10 or 11
 - .NET 8.0 SDK or later if building from source
-- Visual Studio 2022 with .NET Desktop Development and Windows App Development workloads
 
-## Build from source
-
-```bash
-git clone https://github.com/SalahAlzibdeh/DailySuccessTrackerRPG.git
