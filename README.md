@@ -23,8 +23,7 @@ The app uses a custom category system where the same categories you create for o
 
 Grab the latest release here:
 
-[Download the latest release](https://github.com/SalahAlzibdeh/DailySuccessTrackerRPG/releases/latest)
-## Architecture
+[Download for Windows](https://github.com/SalahAlzibdeh/DailySuccessTrackerRPG-Release/releases/latest/download/DailySuccessTrackerRPG_Setup.exe)## Architecture
 
 The app follows a simple MVVM structure:
 
